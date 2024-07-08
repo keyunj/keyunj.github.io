@@ -5,6 +5,7 @@ main:
     conference_short: IJCB
     conference: IEEE International Joint Conference on Biometrics <strong>(IJCB)</strong>, 2024
     pdf: http://ivg.au.tsinghua.edu.cn/~jfeng/pubs/Pan_IJCB24_DenseMinuDescriptor.pdf
+    code: https://github.com/Yu-Yy/DMD
     bibtex: ./assets/bibtex/ijcb2024_pan.txt
     image: ./assets/img/ijcb2024_pan.png
 
